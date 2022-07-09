@@ -19,3 +19,6 @@
 
 Картинка 1
 <img width="1440" alt="Снимок экрана 2022-07-09 в 10 46 43 AM" src="https://user-images.githubusercontent.com/91781655/178097168-640cb589-2867-4847-b763-5cb816a5f2e7.png">
+
+Картинка 2
+<img width="1440" alt="Снимок экрана 2022-07-09 в 10 47 00 AM" src="https://user-images.githubusercontent.com/91781655/178097189-3c3b893f-fb6c-482b-bbc6-6ca374771a57.png">
